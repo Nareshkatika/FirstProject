@@ -1,0 +1,26 @@
+
+.BgImg{
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.headingEl1{
+  font-family: roboto;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+
+.spanEl{
+  color: #c20a72;
+}
+
+.paragraphEl1{
+  font-family: roboto;
+  font-size: 16px;
+  color: black;
+}
