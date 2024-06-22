@@ -13,7 +13,7 @@ const App=()=>{
       <h1 className='headingEl1'>The Button has been clicked <span className='spanEl'>{count}</span> times</h1>
       <p className='paragraphEl1'>click the button to increase the count!</p>
         <div>
-          <button onClick={onClickSolution} type='button'>Click Me!</button>
+          <button onClick={onClickSolution} type='button'>Click me!</button>
         </div>
     </div>
   )
